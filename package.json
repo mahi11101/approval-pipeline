@@ -1,0 +1,11 @@
+{
+  "name": "approval-pipeline",
+  "version": "1.0.0",
+  "description": "Webhook to rules to approval to audit log, with zero dependencies",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
